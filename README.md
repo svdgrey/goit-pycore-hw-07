@@ -1,4 +1,4 @@
-# Python Programming: Foundtion and Best Practicies 2.0 — Homework 07
+# Python Programming: Foundtion and Best Practicies 2.0 - Homework 07
 
 ## Files
 
@@ -6,6 +6,7 @@
 - `handlers.py` - Contains command handlers.
 - `models.py` - Contains classes for contacts, phone numbers, and birthdays.
 - `decorators.py` - Handles common user input errors.
+- `README.md` - Contains information and instructions.
 
 ## Run
 
